@@ -3,9 +3,9 @@ This repository contains multiple IOS Application projects written in Swift Prog
 
 ## Implementations
 
-Implemented the following
+Implemented the following but not limited to it!
 * Functions
-* Contraints
+* Constraints
 * Segue
 * UITabBarController
 * MapKit
